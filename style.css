@@ -1,5 +1,7 @@
-body{background-color:#00ffff}
-h1{font-family:Brush Script MT;
+body{background-color:#00ffff,
+rgb(0, 255, 255),
+hsl(180, 100%, 50%)}
+h1{font-family:Brush Script MT,Times New Romans,;
 font-stretch: ultra-condensed;
  font-weight: 50px;
 font-size: 20rem
