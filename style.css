@@ -1,7 +1,5 @@
 
-.sticky{position: fixed;
-       top: 0;
-       width: 100%}	
+.sticky{position: fixed}	
 body{background: linear-gradient(to bottom, #cc00cc 60%, #ff3300 100%)}
 h1{font-family:Brush Script MT,Times New Romans;
 font-stretch: ultra-condensed;
