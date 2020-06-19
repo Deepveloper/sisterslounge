@@ -1,5 +1,5 @@
 
-sticky{position: fixed;
+.sticky{position: fixed;
        top: 0;
        width: 100%}	
 body{background: linear-gradient(to bottom, #cc00cc 60%, #ff3300 100%)}
